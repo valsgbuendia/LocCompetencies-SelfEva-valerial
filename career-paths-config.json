@@ -6,7 +6,7 @@
       "market": 2,
       "gilt": 2,
       "technology": 2,
-      "management": 3
+      "management": 4
     },
     "translation_apprentice": {
       "language": 3,
@@ -20,7 +20,7 @@
       "research": 3,
       "market": 3,
       "gilt": 3,
-      "technology": 3,
+      "technology": 4,
       "management": 3
     },
     "data_annotator": {
